@@ -139,5 +139,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shylex96&theme=dark" alt="Shylex96">
 <br>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shylex96" alt="Shylex96"</a>
+<br>
 <img src="https://komarev.com/ghpvc/?username=Shylex96&label=Profile%20views&color=0e75b6&style=plastic" alt="Shylex96">
 </p>

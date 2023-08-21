@@ -138,7 +138,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Shylex96&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shylex96&theme=dark" alt="Shylex96">
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shylex96&row=2&column=3" alt="Shylex96"</a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shylex96&row=5&column=3&theme=onedark" alt="Shylex96"</a> </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shylex96&label=Profile%20views&color=0e75b6&style=plastic" alt="Shylex96"> </p>
 </p>

@@ -1,5 +1,5 @@
 # Hi, my name is Esteban Albarrán 👋
-### At the moment I am Studying: Web Application Development
+### At the moment I am Studying: Multiplatform Application Development (DAM)
 
 ![https://github.com/Shylex96](https://github.com/Shylex96/Shylex96/blob/MasterRMK/mainContent.png)
 
@@ -138,7 +138,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Shylex96&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shylex96&theme=dark" alt="Shylex96">
 <br>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shylex96" alt="Shylex96"</a>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shylex96&row=2&column=3" alt="Shylex96"</a> </p>
 <br>
-<img src="https://komarev.com/ghpvc/?username=Shylex96&label=Profile%20views&color=0e75b6&style=plastic" alt="Shylex96">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shylex96&label=Profile%20views&color=0e75b6&style=plastic" alt="Shylex96"> </p>
 </p>

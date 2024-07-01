@@ -1,5 +1,5 @@
 # Hi, my name is Esteban Albarrán 👋
-### At the moment I am Working in Numier TPV
+### At the moment, I am working at Numier TPV
 
 ![https://github.com/Shylex96](https://github.com/Shylex96/Shylex96/blob/MasterRMK/mainContent.png)
 

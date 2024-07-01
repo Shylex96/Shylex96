@@ -1,5 +1,5 @@
 # Hi, my name is Esteban Albarrán 👋
-### At the moment I am Studying: Multiplatform Application Development (DAM)
+### At the moment I am Working in Numier TPV
 
 ![https://github.com/Shylex96](https://github.com/Shylex96/Shylex96/blob/MasterRMK/mainContent.png)
 
@@ -11,15 +11,11 @@
 <tr>
 <td>
   
-- 🔭 I’m currently working on "Lonely Lumberjack Browser Game" project.
+- 🔭 I’m currently working on Kotlin using Jetpack Compose.
   
-- 🌱 I’m currently learning Learn Website Development [Node.js]
+- 🌱 I’m currently learning Kotlin and PHP.
   
-- 👯 I’m looking to collaborate on JavaScript
-  
-- 🤔 I’m looking for help with Node.js
-  
-- 💬 Ask me about Web development
+- 💬 Ask me about anything.
   
 - 📫 How to reach me: estebanalbarran1996@gmail.com
   
@@ -43,7 +39,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"> 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white">
+
 </td>
 </tr>
 
@@ -83,9 +79,9 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </td>
 </tr>
 
@@ -122,10 +118,7 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white">
 <img src="https://img.shields.io/badge/AngularJS-E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white">
 </td>

@@ -1,6 +1,6 @@
 # 👨‍💻 Esteban Albarrán — Software Developer
 
-Hi there! I'm Esteban, a **Software Developer** with experience in multiple technologies, frameworks, and tools that I use daily to build efficient and creative digital solutions. Currently, I'm working at **Numier TPV**, developing applications with backend and frontend technologies.
+Hi there! I'm Esteban, a **Full Stack Developer** with experience in multiple technologies, frameworks, and tools that I use daily to build efficient and creative digital solutions. Currently, I'm working at **Numier TPV**, developing applications with backend and frontend technologies.
 
 ## 🚀 Technologies & Tools I Use Daily:
 

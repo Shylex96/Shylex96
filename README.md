@@ -16,6 +16,7 @@ Hi there! I'm Esteban, a **Full Stack Developer** with experience in multiple te
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 ![Dagger Hilt](https://img.shields.io/badge/Dagger%20Hilt-FF4081?style=for-the-badge&logo=dagger-hilt&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 🛠️ Other Tools I Use:
 

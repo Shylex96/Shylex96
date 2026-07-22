@@ -2,15 +2,19 @@
 <div align="center">
 
 <h1>👨‍💻 Esteban Albarrán</h1>
-<h3>Full Stack Developer · Frontend & Backend Specialist · System Architect</h3>
+
+<h3>
+Technical Lead & Backend Engineer · PHP · APIs · Software Architecture · Team Leadership
+</h3>
 
 <p>
-I build <b>scalable systems</b>, optimize <b>complex data flows</b> and design <b>financial software</b> that survives real business growth.
+I design and build <b>scalable backend systems</b>, 
+architect <b>maintainable software solutions</b> and lead the technical evolution of production applications.
 </p>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Development+(Frontend+%2B+Backend);Laravel+%26+Vue+Specialist;Financial+%26+Fiscal+Systems;Performance+Driven+Architecture;Dockerized+Production+Environments" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Engineering+with+PHP;REST+API+Design+%26+Architecture;Scalable+Business+Applications;Technical+Leadership+%26+Mentoring;Vue.js+Frontend+Integration" />
 
 </div>
 
@@ -23,16 +27,19 @@ I build <b>scalable systems</b>, optimize <b>complex data flows</b> and design <
 <tr>
 <td width="70%">
 
-I'm a **Full Stack Developer** currently working at **Numier TPV**, where I develop and maintain **production-critical systems** involving:
+I'm a **Technical Lead & Backend Engineer** currently working at **Numier TPV**, where I design, develop and evolve **production-critical business systems**.
 
-- Fiscal ticket processing  
-- Tax breakdowns & discrepancies  
-- ERP integrations  
-- Performance-sensitive SQL logic  
+My experience focuses on:
 
-I specialize in **full stack development**, combining strong **backend architecture**, **financial business logic**, and **scalable database design** with **robust, maintainable frontend applications**.
+- Backend development with PHP (Vanilla PHP, Slim Framework and Laravel)
+- REST API design and external integrations
+- Complex business logic and data consistency
+- SQL optimization and database design
+- Technical decision making and team mentoring
 
-I don't just write code — **I design systems that last**, from database to UI.
+I combine hands-on software development with technical leadership, helping build systems that remain **maintainable, scalable and reliable** as complexity grows.
+
+I don't just implement features — **I design software that lasts**.
 
 </td>
 <td width="30%" align="center">
@@ -53,27 +60,30 @@ I don't just write code — **I design systems that last**, from database to UI.
 <div style="flex: 1; min-width: 250px; border-left: 4px solid #58A6FF; padding-left: 12px;">
 <h4>🧩 Architecture First</h4>
 <ul>
-<li>Layered architecture (Controller → Repository → Data)</li>
-<li>No direct DB access from controllers</li>
-<li>Designed for maintainability & evolution</li>
+<li>Maintainable backend architectures</li>
+<li>Clear separation of responsibilities</li>
+<li>API-first development</li>
+<li>Designed for long-term evolution</li>
 </ul>
 </div>
 
 <div style="flex: 1; min-width: 250px; border-left: 4px solid #3FB950; padding-left: 12px;">
 <h4>📈 Performance Oriented</h4>
 <ul>
-<li>SQL optimization without indexes</li>
-<li>Heavy query refactoring</li>
-<li>Real data validation</li>
+<li>SQL query optimization</li>
+<li>Performance analysis in production systems</li>
+<li>Efficient data processing</li>
+<li>Real-world bottleneck resolution</li>
 </ul>
 </div>
 
 <div style="flex: 1; min-width: 250px; border-left: 4px solid #F85149; padding-left: 12px;">
-<h4>💰 Business Logic</h4>
+<h4>🏢 Business Logic</h4>
 <ul>
-<li>Discount proration by line</li>
-<li>Multi-document fiscal logic</li>
-<li>ERP-ready exports</li>
+<li>Complex business workflows</li>
+<li>Financial and commercial systems</li>
+<li>External integrations</li>
+<li>Data consistency and validation</li>
 </ul>
 </div>
 
@@ -82,7 +92,7 @@ I don't just write code — **I design systems that last**, from database to UI.
 ---
 
 <!-- ===================== FULL STACK ===================== -->
-## 🧠 Full Stack Expertise
+## 🧠 Engineering Expertise
 
 <table>
 <tr>
@@ -90,33 +100,32 @@ I don't just write code — **I design systems that last**, from database to UI.
 
 <h4>🎨 Frontend Engineering</h4>
 
-- Vue 2 & Vue 3 (Options API & Composition API)
-- State management with Pinia & Vuex
-- Axios-based API layers
-- Component-driven architecture
-- Responsive layouts with Tailwind & Bootstrap
-- SCSS / Sass for structured styling
-- TypeScript for safer, scalable codebases
+- Vue 2 & Vue 3
+- Options API & Composition API
+- Component-based architecture
+- API integrations with Axios
+- State management with Vuex / Pinia
+- Responsive application development
 
 </td>
 <td width="50%">
 
 <h4>⚙️ Backend Engineering</h4>
 
-- Laravel & Slim REST APIs
-- JWT authentication (access & refresh tokens)
-- Composer-based dependency management
+- PHP backend development
+- Slim Framework & Laravel
+- REST API design
+- Authentication systems
 - Clean architecture & service layers
-- ERP & external system integrations
-- Financial data consistency & validation
-- Performance-critical SQL logic
+- Database modeling and optimization
+- External system integrations
 
 </td>
 </tr>
 </table>
 
 <p>
-I work comfortably across the <b>entire stack</b>, ensuring frontend and backend evolve together with clean contracts, shared logic, and long-term maintainability.
+I work across the <b>full application lifecycle</b>, with a backend-focused approach and a strong focus on architecture, maintainability and technical quality.
 </p>
 
 ---
